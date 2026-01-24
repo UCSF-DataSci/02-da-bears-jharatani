@@ -4,3 +4,15 @@ __pycache__/
 .ipynb_checkpoints/
 .datasci-practice/
 
+datasci-practice/
+.venv/
+venv/
+
+# Virtual environments
+datasci-practice/
+.venv/
+venv/
+
+# Python cache / notebook checkpoints
+__pycache__/
+.ipynb_checkpoints/
